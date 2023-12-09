@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact: **I solve a Rubik's Cube in less than 90 seconds**.
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<h2 align="left">Connect with me</h2>
+<p align="center">
   <a href="https://linkedin.com/in/franco-gil" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-gil" height="30" width="40"/>
   </a>
@@ -31,8 +31,23 @@
   </a>
 </p>
 
-<h2 align="left">Extensive list of tools that I have used throughout my SWE journey</h2>
-<h3 align="left">Cloud services:</h3>
+<h2 align="left">Tools that I like to use</h2>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+</p>
+
+<h2 align="left">Extensive list of tools</h2>
+<details>
+    <summary align="left">Extensive list of tools that I have been used throughout my software engineering journey</summary>
+    <h3 align="left">Cloud services:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="aws" width="40" height="40"/>
@@ -51,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions#overview" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/C4D12AQHgB0F63IjJeQ/article-cover_image-shrink_423_752/0/1568663838687?e=1699488000&v=beta&t=fgwckJl5AaB0fjDtJhDaFfPSN2RVI28YalGf9EKnlbQ" alt="github actions" width="170" height="40"/>
+    <img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-github-actions/0.26.2/1694016984133/Microsoft.VisualStudio.Services.Icons.Default" alt="github actions" width="40" height="40"/>
   </a>
 </p>
 
@@ -105,7 +120,7 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="110" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -116,6 +131,10 @@
   <a href="https://symfony.com" target="_blank" rel="noreferrer">
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
   </a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
+  </a>
+  <br>
   <a href="https://gunicorn.org" target="_blank" rel="noreferrer">
     <img src="https://gunicorn.org/images/logo.jpg" alt="gunicorn" width="135" height="40"/>
   </a>
@@ -135,12 +154,17 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://www.ibm.com/docs/en/i/7.4?topic=overview-db2-i" target="_blank" rel="noreferrer">
+    <img src="https://www.ibm.com/design/language/2826313f32f42776538455fbdb80834b/1_4-11_IBMPlexIcons_Typesetting_Dont2.svg" alt="db2fori" width="40" height="40"/>
+  </a>
   <a href="https://mariadb.org" target="_blank" rel="noreferrer">
     <img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/mariadb_org_rgb_h.svg" alt="mariadb" width="80" height="40"/>
   </a>
+  <br>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
     <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ffgjuqw3ijlfz4wf72ha.png" alt="dynamodb" width="80" height="40"/>
   </a>
+  <br>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
@@ -182,7 +206,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   </a>
 </p>
 
@@ -198,3 +222,14 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Software design:</h3>
+<p align="left">
+  <a href="https://www.uml.org" target="_blank" rel="noreferrer">
+    <img src="https://www.omg.org/uml-directory/images/logos/UML-logo.jpg" alt="uml" width="75" height="40"/>
+  </a>
+  <a href="https://www.uml.org" target="_blank" rel="noreferrer">
+    <img src="https://publications.opengroup.org/media/catalog/category/ArchiMate_Library_1_3.png" alt="archimate" width="40" height="40"/>
+  </a>
+</p>
+</details>
